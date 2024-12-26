@@ -1,0 +1,4 @@
+#Wed Dec 25 15:27:18 ICT 2024
+base.0=C\:\\Workspace\\Unity\\Quiz Game\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
